@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": "git://github.com/maurya777/npm.git",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "author": "Satish Maurya",
   "license": "ISC"
 }
