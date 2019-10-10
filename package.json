@@ -1,0 +1,12 @@
+{
+  "name": "@maurya777/hello-pkg",
+  "version": "1.0.0",
+  "description": "test pkg on github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git://github.com/maurya777/npm.git",
+  "author": "Satish Maurya",
+  "license": "ISC"
+}
